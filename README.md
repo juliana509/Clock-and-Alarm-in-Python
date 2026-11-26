@@ -5,6 +5,6 @@ Para usar el programa, debe de tener descargado un archivo alarma.mp3 en su repo
 
 ____________________________________________________________________________________________________________
 
-Available in English or Spanish. This clock was made specificly for college students studying for their finals.
+Available in English or Spanish. This clock was made specifically for college students studying for their finals.
 
-If you want to use this app, you must have a file named alarma.mp3 in your repository and the extension "pip install pygame" that you can download by copy-pasting it the terminal.
+If you want to use this software, you must have a file named alarma.mp3 in your repository and the extension "pip install pygame" that you can download by copy-pasting it the terminal.
