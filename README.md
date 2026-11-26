@@ -3,6 +3,7 @@ Disponible en español e inglés. Este reloj esta personalizado para estudiantes
 
 Para usar el programa, debe de tener descargado un archivo alarma.mp3 en su repositorio e instalado en VSC "pip install pygame", si no lo tiene, puede copiar y pegar en la terminal para instalarlo.
 
+____________________________________________________________________________________________________________
 
 Available in English and Spanish. This clock was made specificly for college students studying for their finals.
 
